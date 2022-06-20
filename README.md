@@ -1,4 +1,4 @@
-- 👋 Olá, meu nome é Marcus! tenho 24 anos e sempre gostei muito de assuntos relacionados a tecnologia
+- 👋 Olá meu nome é Marcus, tenho 24 anos e sempre gostei muito de assuntos relacionados a tecnologia!
 - 👀 Brasileiro 🇧🇷❤️‍ e formado em Análise e desenvolvimento de Sistemas pela universidade FSA - Fundação santo andré
 - 👨‍🎓 Desenvolvedor júnior, e sempre buscando novas oportunidades e aprendizados no mercado de tecnologia da informação
 - 💬 Para mim, a tecnologia é uma das melhores artes da ciência moderna!
