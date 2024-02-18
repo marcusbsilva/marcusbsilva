@@ -1,8 +1,7 @@
-- 👋 Oi! me chamo Marcus, tenho 25 anos e sempre gostei muito de assuntos relacionados a tecnologia!
-- 👀 Brasileiro 🇧🇷❤️‍ e formado em Análise e desenvolvimento de Sistemas pela universidade FSA - Fundação santo andré
-- 👨‍🎓 Desenvolvedor/programador júnior, sempre buscando novas oportunidades e aprendizados no mercado de tecnologia da informação
-- 💬 Para mim, a tecnologia é uma das melhores artes da ciência moderna!
-- 🌎 Meu portfolio profissional: www.linkedin.com/in/marcuslbs
+- 👋 Olá! Me chamo Marcus. Sou um desenvolvedor Brasileiro em busca de novas oportunidades e conhecimentos no mercado de TI
+- 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Universidade FSA - Fundação Santo André
+- 💬 Afinal, o que é a tecnologia, se não uma expressão viva da ciência moderna?
+- 🌎 Convido você a explorar meu portfólio profissional: www.linkedin.com/in/marcuslbs
 
 <!---
 marcusbsilva/marcusbsilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
