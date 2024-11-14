@@ -1,6 +1,6 @@
-- 👋 Olá! Me chamo Marcus. Sou um desenvolvedor Brasileiro em busca de novas oportunidades e conhecimentos no mercado de TI
+- 👋 Olá! Me chamo Marcus. Sou um Profissional de TI Brasileiro em busca de novas oportunidades e conhecimentos no mercado de TI
 - 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Universidade FSA - Fundação Santo André
-- 💬 Afinal, o que é a tecnologia, se não uma expressão viva da ciência moderna?
+- 💬 "Afinal, o que é a tecnologia, se não uma expressão viva da ciência moderna?"
 - 🌎 Convido você a explorar meu portfólio profissional: www.linkedin.com/in/marcuslbs
 
 <!---
